@@ -20,6 +20,15 @@ The dataset contains the following fields:
 - Payment Method
 - Description
 
+## Project Workflow
+
+1. Data Collection
+2. Data Cleaning
+3. Exploratory Data Analysis (EDA)
+4. Data Visualization
+5. Insights Generation
+
+
 ## Key Analysis
 - Category-wise expense distribution
 - Monthly spending trends
@@ -31,5 +40,18 @@ The dataset contains the following fields:
 - Line Graph (Monthly trends)
 
 ## Conclusion
+The SpendSense analysis reveals that most expenses occur in categories
+such as groceries, shopping, and transportation. Visualization of monthly
+spending trends helps identify high-expense periods and enables better
+financial planning.
+
+## Author
+
+Rajat Tyagi  
+B.Tech CSE   
+IILM University  
+
+GitHub: https://github.com/tyagirajat154
+
 The analysis reveals spending patterns and helps users understand where
 their money is being spent.
