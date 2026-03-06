@@ -1,49 +1,35 @@
-# SpendSense
-Data-Driven Personal Expense Analysis &amp; Budget Insights using Python and Data Science
+# SpendSense: Data-Driven Personal Expense Analysis
 
-# SpendSense — Data-Driven Personal Expense Analysis & Budget Insights
-
-## Project Overview:
-
-SpendSense is a data science project designed to analyze personal spending habits and provide intelligent budget insights. The system helps users understand their financial behavior through visualization and predictive analytics.
-
-## Objectives:
-
-* Analyze user spending patterns
-* Categorize expenses automatically
-* Generate budget insights
-* Provide data-driven financial recommendations
+## Overview
+SpendSense is a Data Science project that analyzes personal spending patterns
+using data visualization and statistical analysis. The goal is to identify
+spending trends, category-wise expenses, and monthly financial behavior.
 
 ## Technologies Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Jupyter Notebook
+## Dataset
+The dataset contains the following fields:
+- Date
+- Category
+- Amount
+- Payment Method
+- Description
 
-## Dataset Features
+## Key Analysis
+- Category-wise expense distribution
+- Monthly spending trends
+- Payment method analysis
 
-* Date
-* Category
-* Amount
-* Payment Mode
-* Description
+## Visualizations
+- Pie Chart (Expense distribution)
+- Bar Chart (Category spending)
+- Line Graph (Monthly trends)
 
-## Key Features
-
-* Expense trend analysis
-* Category-wise spending visualization
-* Monthly financial insights
-* Budget prediction (planned)
-
-## Future Enhancements
-
-* Machine learning-based expense prediction
-* Smart budget alerts
-* Interactive dashboard
-
-## Author
-Rajat Tyagi 
-
+## Conclusion
+The analysis reveals spending patterns and helps users understand where
+their money is being spent.
